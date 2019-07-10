@@ -198,4 +198,4 @@ dmypy.json
 /.idea/*
 
 # Custom
-credentials.csv
+#credentials.csv
